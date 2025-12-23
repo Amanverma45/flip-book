@@ -4,7 +4,7 @@ import React from 'react'
   return (
     <div
       style={{
-        background: "#fff",
+        background: "#c3acacff",
         padding: "12px",
         marginBottom: "12px",
         borderRadius: "6px",
